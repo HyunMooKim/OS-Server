@@ -1,2 +1,2 @@
-# Opeartion_System
-CPU-Scheduler, OS study
+# Opeartion_System, Server study
+CPU-Scheduler, Simple Webserver
