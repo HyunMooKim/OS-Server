@@ -5,11 +5,11 @@ You can run 6 algorithms.<br>
 (3) Finally, you can choose menu option 7 to compare the performance of the algorithms.
 
 
-(1)
+(1) <br>
 ![image](https://github.com/HyunMooKim/Opeartion_System/assets/100335266/7b9dfc63-2d82-4b93-9f2f-11a024036d38)
 
-(2)
+(2) <br>
 ![image](https://github.com/HyunMooKim/Opeartion_System/assets/100335266/1dd8c913-6013-4719-bd8a-a22d8552620c)
 
-(3)
+(3) <br>
 ![image](https://github.com/HyunMooKim/Opeartion_System/assets/100335266/de2badb4-833a-43f6-b5f5-de7f116f51bc)
