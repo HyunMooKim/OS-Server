@@ -5,13 +5,14 @@
   <p>tmux -> ctrl + b + " -> run "consumer.c" at Terminal 1 -> run "run.sh" and "test.sh" at Terminal 2</p>
 
 
-  <h2>result:</h2><br>
-  <p>without Semaphopre
+## result:  
+without Semaphopre
 <br> ![image](https://github.com/HyunMooKim/OS-Server/assets/100335266/32943994-daf8-4012-b301-6992451a3797)
 
-  </p>
 
-  <p>with Semaphopre
-<br> ![image](https://github.com/HyunMooKim/OS-Server/assets/100335266/ee09ec85-3552-472b-aad5-e2df65c10a99)
+<br>with Semaphopre  
+<br> ![image](https://github.com/HyunMooKim/OS-Server/assets/100335266/be964d3e-0cfd-49b7-9e16-c46b4047bad0)
 
-  </p>
+
+
+
